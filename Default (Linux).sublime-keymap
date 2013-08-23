@@ -109,6 +109,15 @@
     },
 
     {
+        "keys": ["ctrl+shift+alt+n"],
+        "command": "new_window"
+    },
+
+    {
+        "keys": ["ctrl+shift+alt+w"],
+        "command": "close_window"
+    },
+    {
         "keys": ["ctrl+alt+shift+p"],
         "command": "show_overlay",
         "args":{
