@@ -1,7 +1,7 @@
 [
     //emacs-ish movement commands
     {   
-        "keys": ["ctrl+f"], 
+        "keys": ["ctrl+F"], 
         "command": "move",
         "args": 
         {
